@@ -1,0 +1,4 @@
+tasks:
+  - init: ./mvnw -B dependency:go-offline
+ports:
+  - port: 8080
